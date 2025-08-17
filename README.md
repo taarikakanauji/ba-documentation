@@ -10,7 +10,7 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
-
+---
 
 
 
@@ -28,6 +28,8 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
+---
+
 
 
 \### 2. Cosmos E-commerce Website (BRD).docx
@@ -40,7 +42,7 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
-
+---
 
 
 
@@ -54,6 +56,8 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
+---
+
 
 
 \### 4. Functional and Non-Functional Document.xlsx
@@ -64,7 +68,7 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
-
+---
 
 
 
@@ -78,7 +82,7 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
-
+---
 
 
 
@@ -89,6 +93,8 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 \- Contains \*\*requirement IDs, scenarios, and traceability matrix\*\* for validating functional coverage.  
 
 
+
+---
 
 
 
@@ -102,7 +108,7 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
-
+---
 
 
 
@@ -124,6 +130,8 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
+---
+
 
 
 \### 9. RACI Matrix.xlsx
@@ -133,6 +141,8 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 \- Clarifies who is \*\*Responsible, Accountable, Consulted, and Informed\*\* for activities like scope definition, requirements gathering, design, testing, deployment, and maintenance.  
 
 
+
+---
 
 
 
@@ -154,7 +164,7 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
-
+---
 
 
 
@@ -168,7 +178,7 @@ These documents simulate real-world projects (e-commerce systems, online orderin
 
 
 
-
+---
 
 
 
